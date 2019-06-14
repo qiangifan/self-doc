@@ -8,5 +8,6 @@
 ##安装信赖库
 > cnpm i -S react react-dom typescript
 > cnpm i -D @types/react @types/react-dom webpack webpack-cli webpack-dev-server
-> cnpm i -D css-loader style-loader less less-loader awesome-typescript-loader html-webpack-plugin
+> cnpm i -D babel-core babel-loader babel-preset-react html-webpack-plugin
+> cnpm i -D css-loader style-loader less less-loader awesome-typescript-loader react-hot-loader 
 > cnpm i -D antd
